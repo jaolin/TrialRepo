@@ -1,2 +1,2 @@
 # TrialRepo
-Computational Biology - Gotelli
+Computational Biology - Gotelli lab course
